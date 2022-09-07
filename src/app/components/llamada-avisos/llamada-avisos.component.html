@@ -1,8 +1,14 @@
 <link rel="stylesheet" [href]="sanitizer.bypassSecurityTrustResourceUrl(cssUrl)">
 
 <div class="contenedorAvisos">
-    <div class="contenedor1">ADVICE #</div>
-    <div class="contenedor2">""</div>
+    <div class="contenedor1">{{titleAdvice}}</div>
+    <div class="contenedor2">{{advice}}</div>
     <div class="contenedor3"><img src="../../../assets/images/pattern-divider-desktop.svg" class="divisionDesktop"></div>
-    <div class="contenedor4"><button class="boton"></button></div>
+    <div class="contenedor4">
+        <div class="estilosBoton">
+            <button (click)="generarAvisos()" class="boton">
+                <img src="../../../assets/images/icon-dice.svg" class="imagen">
+            </button>
+        </div>
+    </div>
 </div>
