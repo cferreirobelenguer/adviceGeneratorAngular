@@ -3,8 +3,8 @@
 
 ## Enunciado
 
-Reto de Frontend Mentor que consiste en crear una aplicación web siguiendo un diseño determinado y consumiendo
-una API que genera advice de manera random. Hay que mostrar el id y el advice, todo de manera responsiva.
+Reto de Frontend Mentor realizado en Angular que consiste en crear una aplicación web siguiendo un diseño determinado 
+y consumiendo una API que genera advice de manera random. Hay que mostrar el id y el advice, todo de manera responsiva.
 
 ## Diseño Escritorio
 
