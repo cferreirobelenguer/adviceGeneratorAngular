@@ -1,17 +1,22 @@
 
 # 🚀🚀 Challenge Frontend Mentor Advice generator app! 🚀🚀
 
-# Diseño Escritorio
+## Enunciado
+
+Reto de Frontend Mentor que consiste en crear una aplicación web siguiendo un diseño determinado y consumiendo
+una API que genera advice de manera random. Hay que mostrar el id y el advice, todo de manera responsiva.
+
+## Diseño Escritorio
 
 ![image](https://user-images.githubusercontent.com/88061350/188923012-4f1691f3-744b-4541-abd6-bc97be79d844.png)
 
 
-# Diseño Responsive
+## Diseño Responsive
 
 ![image](https://user-images.githubusercontent.com/88061350/188923868-8664c379-213b-403c-90fa-186cb7ade302.png)
 
 
-# Efecto de botón cuando se pasa ratón (hover)
+## Efecto de botón cuando se pasa ratón (hover)
 
 ![image](https://user-images.githubusercontent.com/88061350/188922859-7109d866-1209-4792-b9b3-bb7394303b82.png)
 
